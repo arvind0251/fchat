@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # RapidAPI aur Telegram API keys
 TELEGRAM_BOT_TOKEN = "7810505308:AAGr-fIzBSy-WXYuCZlH-fvGbCdDhRtuRLI"
-RAPIDAPI_KEY = "823ad731bemsh1a89f7cbcabd094p1f2447jsnad1907e6f3a1"
+RAPIDAPI_KEY = "c02f3ddea8msh041875afb61cf38p1a5668jsn39030ba4fd0c"
 RAPIDAPI_HOST = "cheapest-gpt-4-turbo-gpt-4-vision-chatgpt-openai-ai-api.p.rapidapi.com"
 
 # Logging setup
